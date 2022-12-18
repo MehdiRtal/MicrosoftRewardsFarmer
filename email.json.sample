@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "sender@example.com",
+    "password": "GoogleAppPassword",
+    "receiver": "receiver@example.com",
+    "withdrawal": "true",
+    "lock": "true",
+    "ban": "true",
+    "phoneverification": "true",
+    "proxyfail": "false"
+  }
+]
