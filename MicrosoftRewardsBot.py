@@ -1665,7 +1665,8 @@ def farmer():
                             '[REEDEM] Goal has not been defined for this account, defaulting to Amazon Giftcard...'
                         )
                         goal = 'Amazon'
-                        redeem(browser, goal)
+                    
+                    redeem(browser, goal)
                 browser.quit()
 
             if MOBILE:
